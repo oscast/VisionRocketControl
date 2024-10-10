@@ -1,4 +1,4 @@
 # VisionRocketControl
 Control a RealityKit Rocket using your thumbs
 
-![Watch the video](Resources/video.mp4)
+https://github.com/user-attachments/assets/adcc92a6-9c47-4f2d-a7d8-46bb974a64fa
